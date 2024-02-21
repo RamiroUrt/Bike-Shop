@@ -35,9 +35,9 @@ export const Hero = () => {
           </div>
         </div>
       </div>
-      <div className="md:col-span-3 flex items-center mt-4 xl:mt-0">
+      <div className="md:col-span-3 flex items-center justify-center mt-4 xl:mt-0">
         <div className="mt-5 xl:mt-0">
-            <img src="../../home.png" alt="" data-aos="fade-right"/>
+            <img src="../../public/IMG/genius.jpg" alt="" data-aos="fade-right"/>
             <div className="relative bg-white shadow-xl rounded-lg p-4 flex flex-col justify-center gap-2 max-w-[250px] mx-auto -mt-12">
             <div className="flex items-center">
               <img
